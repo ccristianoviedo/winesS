@@ -1,0 +1,20 @@
+.itemPr {
+    width: 280px;
+    height: 620px;
+    border: rgba(20, 16, 16, 0.432) solid;
+    margin-left: 10%;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.imgPr{
+    width: 150px;
+    height: 250px;
+    border-radius: 0%;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(39, 32, 32);
+    width: 100px;
+    height: 50px;
+}
