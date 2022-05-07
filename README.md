@@ -1,15 +1,48 @@
-WINES.MD
+                                                       WINES
 
-E-commerce store dedicated to the sale of wines of different characteristics
+![t_onwine-logo_10](https://user-images.githubusercontent.com/88980129/167259587-2fd0bc67-cf44-4bbf-9bf0-93056cae5917.png)
 
-Content
+## WINES STORE
+
+        E-commerce store developed in REACT, dedicated to the sale of wines of different characteristics
+                                
+ 
+## DEMO
+
+![EntregaIntermedia](https://user-images.githubusercontent.com/88980129/167259709-1c0d8e97-b4ea-4529-80b2-c10e9afc0d6c.gif)
+
+
+## FUNCTIONALITY
+
+        Web page where the different products are displayed, and users can add, remove and send them to cart.
+        
+## website images
+
+   INDEX
+   
+   
+![index](https://user-images.githubusercontent.com/88980129/167260054-d7c394b3-d443-4b28-9144-c4c46d0a54e2.jpg)
+
+   PRODUCT DETAILS
+   
+   
+        
+ ![details](https://user-images.githubusercontent.com/88980129/167260157-a8c0fd58-b57f-4905-8f3e-81c0be1e1296.jpg)
+
+
+
+
+
+
+
+
+## Content
 
 This project contains two main components, ItemDetailsContainer and ItemListContainer. and browserRoutes is used to link the different pages.
 
-Installation
-To install and run this proyect just type and execute
 
-npm install
+## Installation
+To install and run this proyect just type and execute npm install
 
 
 
