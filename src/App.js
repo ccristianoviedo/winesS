@@ -5,14 +5,13 @@ import ItemDetailContainer from './Pages/ItemDetailContainer/ItemDetailContainer
 import NavBar from './Components/NavBar/NavBar';
 import NameStore from './Components/NameStore/NameStore';
 
-
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <NameStore/>
         <NavBar/>
-      </header>  
+      </header> 
         <Routes>
           <Route path='/'element={<ItemListContainer/>}/>
           <Route path='category/:categoryId' element={<ItemListContainer/>}/>             

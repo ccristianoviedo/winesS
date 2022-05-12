@@ -5,7 +5,6 @@ import '../ItemListContainer/ItemListContainer.css'
 import { useEffect, useState } from 'react';
 import { getProducts } from '../../Components/mocks/getProducts';
 
-
 const ItemListContainer=()=>{
     const [products, setProducts] = useState([]);
     const [loading, setLoading] = useState(false);
@@ -16,8 +15,7 @@ const ItemListContainer=()=>{
          getProducts(categoryId).then((data) => {setProducts(data)})
         .catch((error)=>console.error(error + 'HA OCURRIDO UN ERROR!!'))
         .finally(()=>setLoading(false))                
-    },[categoryId])
-    
+    },[categoryId])   
    
     return (
         <>
@@ -28,5 +26,4 @@ const ItemListContainer=()=>{
         </>
     )
 }
-export default ItemListContainer;
-  
+export default ItemListContainer;  

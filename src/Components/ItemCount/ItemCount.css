@@ -1,16 +1,28 @@
 .btn{
-    width: 100px;
+    width: 90px;
     height: 40px;
-    font-size: 10px;
-    background-color: rgba(170, 14, 14, 0.959);
+    font-size: 20px;
     margin-left: 3px;
     margin-bottom: 10px;
 }
 .counters{
     display: flex;
     flex-direction: row;
+    width: 250px;
+    height: 400px;
+    margin-top: 30px;
 }
 .counter{
     text-align: center;
-    width: 200px;
+    width: 50%;
+}
+.btnEnd{
+    display: none;
+}
+input{
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    margin:15px 20px 20px 15px;
+    font-size: 20px;
 }

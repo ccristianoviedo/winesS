@@ -12,8 +12,8 @@ const Item=({products})=>{
             <p>BODEGA:{products.name}</p>
             <p>PRECIO: $ {products.price}</p>
             <p>STOCK: {products.stock}</p>
-            <button onClick={()=> navigate(`/item/${products.id}`)}>Detalles</button>
-            <ItemCount initial={0} stock={products.stock}/>
+            <button onClick={()=> navigate(`/item/${products.id}`)} className="btn btn-info">Detalles</button>
+            <ItemCount initial={1} stock={products.stock}/>
         </div>
     ) 
 }

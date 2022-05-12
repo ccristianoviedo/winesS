@@ -3,7 +3,7 @@ import '../ItemDetail/ItemDetail.css'
 import ItemCount from '../ItemCount/ItemCount';
 
 const ItemDetails=({item})=>{
-        return (
+    return (
         <div className='item'>
             <div className='imgItem'>
                 <img src={item.img} alt={item.name} className='imgUrl'/>
@@ -16,7 +16,7 @@ const ItemDetails=({item})=>{
                 <p>CRIANZA: {item.breeding}</p>
                 <p>SUGERENCIA: {item.suggest}</p>
                 <p>STOCK: {item.stock}</p>
-                <ItemCount stock={item.stock} initial={1}/>
+                <ItemCount stock={item.stock} initial={1} />
             </div>   
         </div>
     ) 
