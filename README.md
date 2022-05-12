@@ -41,8 +41,19 @@
 This project contains two main components, ItemDetailsContainer and ItemListContainer. and browserRoutes is used to link the different pages.
 
 
+## How to clone
+Follow the next steps:
+* Download file in zip format.
+* Unzip the file
+* Open the project with your code editor
+* Finally install the node modules with npm install in the terminal
+
+
 ## Installation
-To install and run this proyect just type and execute npm install
+To install and run this proyect just type and execute
+```bash
+npm install
+```
 
 
 
