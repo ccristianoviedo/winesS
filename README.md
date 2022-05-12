@@ -42,21 +42,25 @@ The fundamental objective of this project is the development of an e-commerce pa
 This project contains two main components, ItemDetailsContainer and ItemListContainer. and browserRoutes is used to link the different pages.
 
 
-## How to clone
+## Installation
 Follow the next steps:
 * Download file in zip format.
 * Unzip the file
 * Open the project with your code editor
-* Finally install the node modules with npm install in the terminal
-
-
-## Installation
-To install and run this proyect just type and execute
+* To install and run this proyect just type and execute
 ```bash
 npm install
 ```
 
-##
+## How The Clone
+
+* On GitHub.com, visit the repository's home page.
+* Above the list of files, click Download Code.
+* To clone the repository using HTTPS, under "Clone with HTTPS", click
+* Open Git Bash.
+* Change the current working directory to the location where you want to clone the directory.
+* Type git clone, and then paste the URL you copied earlier.
+* Presiona Enter para crear tu clon local.
 
 
 # Getting Started with Create React App
