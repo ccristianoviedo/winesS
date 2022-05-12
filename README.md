@@ -5,7 +5,9 @@
 ## WINES STORE
 
         E-commerce store developed in REACT, dedicated to the sale of wines of different characteristics
-                                
+## Basics of the project
+
+The fundamental objective of this project is the development of an e-commerce page with the REACT library. In our case we developed a page dedicated to the sale of wines, in which the list of products and their details are shown, being able to filter them by categories.
  
 ## DEMO
 
@@ -35,7 +37,6 @@
 
 
 
-
 ## Content
 
 This project contains two main components, ItemDetailsContainer and ItemListContainer. and browserRoutes is used to link the different pages.
@@ -55,25 +56,16 @@ To install and run this proyect just type and execute
 npm install
 ```
 
-
+##
 
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+and in the terminal whit npx create-react-app winesApp
 
-## Available Scripts
+# Scripts
 
-In the project directory, you can run:
+you can run: `npm start`
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
-
-
+Runs the app in the development mode and Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
