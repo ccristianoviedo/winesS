@@ -1,10 +1,9 @@
-                                                       WINES
+# WINES STORE
 
+        E-commerce store developed in REACT, dedicated to the sale of wines of different characteristics                  
+## LOGO
 ![t_onwine-logo_10](https://user-images.githubusercontent.com/88980129/167259587-2fd0bc67-cf44-4bbf-9bf0-93056cae5917.png)
 
-## WINES STORE
-
-        E-commerce store developed in REACT, dedicated to the sale of wines of different characteristics
 ## Basics of the project
 
 The fundamental objective of this project is the development of an e-commerce page with the REACT library. In our case we developed a page dedicated to the sale of wines, in which the list of products and their details are shown, being able to filter them by categories.
@@ -63,13 +62,23 @@ npm install
 * Presiona Enter para crear tu clon local.
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 and in the terminal whit npx create-react-app winesApp
 
-# Scripts
+## Scripts
 
 you can run: `npm start`
 
 Runs the app in the development mode and Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Support
+For support, email ccristianoviedo@gmail.com
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
