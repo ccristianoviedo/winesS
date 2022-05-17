@@ -30,12 +30,6 @@ The fundamental objective of this project is the development of an e-commerce pa
         
  ![details](https://user-images.githubusercontent.com/88980129/167260157-a8c0fd58-b57f-4905-8f3e-81c0be1e1296.jpg)
 
-
-
-
-
-
-
 ## Content
 
 This project contains two main components, ItemDetailsContainer and ItemListContainer. and browserRoutes is used to link the different pages.
@@ -61,7 +55,11 @@ npm install
 * Type git clone, and then paste the URL you copied earlier.
 * Presiona Enter para crear tu clon local.
 
-
+## Dependecies
+  * [React-Boostrap](https://react-bootstrap.github.io/getting-started/introduction)
+  * [Git](http://git-scm.com/downloads)
+  * [node](https://nodejs.org/)
+  
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
