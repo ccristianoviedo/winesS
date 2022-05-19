@@ -56,9 +56,17 @@ npm install
 * Presiona Enter para crear tu clon local.
 
 ## Dependecies
-  * [React-Boostrap](https://react-bootstrap.github.io/getting-started/introduction)
-  * [Git](http://git-scm.com/downloads)
-  * [node](https://nodejs.org/)
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^12.1.5",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.1.3",
+    "react": "^18.0.0",
+    "react-bootstrap": "^2.2.3",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.0",
+    "web-vitals": "^2.1.4"
+ 
   
 ## Getting Started with Create React App
 
